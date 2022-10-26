@@ -100,7 +100,7 @@ h2, h3, h4{
 }
 
 .container {
-  max-width: 1440px;
+  max-width: 1220px;
   padding: 30px;
 }
 .type {
